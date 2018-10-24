@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?e9ckf');
+  src:  url('fonts/icomoon.eot?e9ckf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?e9ckf') format('truetype'),
+    url('fonts/icomoon.woff?e9ckf') format('woff'),
+    url('fonts/icomoon.svg?e9ckf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-accessibility:before {
+  content: "\e900";
+}
+.icon-Add:before {
+  content: "\e901";
+}
+.icon-AddNote:before {
+  content: "\e902";
+}
+.icon-Address:before {
+  content: "\e903";
+}
+.icon-Admin:before {
+  content: "\e904";
+}
+.icon-Apps:before {
+  content: "\e905";
+}
+.icon-Areaofpractice:before {
+  content: "\e906";
+}
+.icon-Arrow:before {
+  content: "\e907";
+}
+.icon-Bencher:before {
+  content: "\e908";
+}
+.icon-BencherApp:before {
+  content: "\e909";
+}
+.icon-BillAndFee:before {
+  content: "\e90a";
+}
+.icon-Business:before {
+  content: "\e90b";
+}
+.icon-BusinessDetails:before {
+  content: "\e90c";
+}
+.icon-Call:before {
+  content: "\e90d";
+}
+.icon-CheckCircle:before {
+  content: "\e90e";
+}
+.icon-Contact:before {
+  content: "\e90f";
+}
+.icon-Copy:before {
+  content: "\e910";
+}
+.icon-CPD:before {
+  content: "\e911";
+}
+.icon-DataManagement:before {
+  content: "\e912";
+}
+.icon-Date:before {
+  content: "\e913";
+}
+.icon-Delete:before {
+  content: "\e914";
+}
+.icon-DocumentBatch:before {
+  content: "\e915";
+}
+.icon-Edit:before {
+  content: "\e916";
+}
+.icon-EmailTemplete:before {
+  content: "\e917";
+}
+.icon-File:before {
+  content: "\e918";
+}
+.icon-FileDetails:before {
+  content: "\e919";
+}
+.icon-FileLoan:before {
+  content: "\e91a";
+}
+.icon-Help:before {
+  content: "\e91b";
+}
+.icon-History:before {
+  content: "\e91c";
+}
+.icon-HolidayCalendar:before {
+  content: "\e91d";
+}
+.icon-info:before {
+  content: "\e91e";
+}
+.icon-Insurance:before {
+  content: "\e91f";
+}
+.icon-ITAnnouncement:before {
+  content: "\e920";
+}
+.icon-LicenceDetails:before {
+  content: "\e921";
+}
+.icon-LoanFile:before {
+  content: "\e922";
+}
+.icon-Note:before {
+  content: "\e923";
+}
+.icon-Office:before {
+  content: "\e924";
+}
+.icon-PeopleBusiness:before {
+  content: "\e925";
+}
+.icon-PeopleDetails:before {
+  content: "\e926";
+}
+.icon-Person:before {
+  content: "\e927";
+}
+.icon-ReasonForRecord:before {
+  content: "\e928";
+}
+.icon-Relationships:before {
+  content: "\e929";
+}
+.icon-ReportingOrganization:before {
+  content: "\e92a";
+}
+.icon-ReturnFile:before {
+  content: "\e92b";
+}
+.icon-RMSAppRole:before {
+  content: "\e92c";
+}
+.icon-RMSUserRole:before {
+  content: "\e92d";
+}
+.icon-RolesMapping:before {
+  content: "\e92e";
+}
+.icon-Summary:before {
+  content: "\e92f";
+}
+.icon-SystemConfiguration:before {
+  content: "\e930";
+}
+.icon-UserPermission:before {
+  content: "\e931";
+}
+.icon-ViewDetail:before {
+  content: "\e932";
+}
+.icon-Warning:before {
+  content: "\e933";
+}
